@@ -7,3 +7,4 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES
   ("Grinch", 54, "Male", "Black", "Lazy", 1),
   ("Wendy", 83, "Female", "Albino", "Hyper", 1),
   (NULL, 23, "Male", "White", "Cuddly", 1)
+;
